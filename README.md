@@ -1,16 +1,20 @@
-# DataVisualization
+# Data Visualization
 ### Mata Kuliah Visualisasi Data dan Informasi - STMIK Sumedang
 
 Created By : yanyan sofiyan, M.Kom. - 16/07/2017
-mail me : yanyan@stmik-sumedang.ac.id
-FB : yanyan sofiyan
+
+- [StackOverflow](#)
+- [Facebook](#)
+- [LinkedIn](#)
+- [Email](yanyan@stmik-sumedang.ac.id)
+- [website](http://yanyan-sofiyan.com)
 
 Source Code ini bebas digunakan dan didistribusikan kembali baik untuk kepentingan Akademik maupun Komersial
 
 Tutuorial ini menggunakan Python versi 3.6 dengan OS Windows 10 x64 (64 bit)
 Agar lebih mudah dalam memange proyek python, disini saya menggunakan Anaconda.
 Untuk mendownload Anaconda, silahkan lihat di link berikut ini :
-https://www.continuum.io/downloads
+[continuum](https://www.continuum.io/downloads)
 
 Setelah selesai menginstall Anaconda, silahkan buat Virtual Environtmet dengan Python versi 3.6
 
@@ -23,22 +27,28 @@ proses install bisa menggunakan paket Conda yaitu :
 ataupun bisa menggunakan pip, dengan cara :
 --1       pip install numpy scipy matplotlib ipython jupyter pandas sympy nose
 
-- CATATAN :
+#### CATATAN :
 Jupyter Notebook merupakan IDE gratis untuk pemrograman Python. Selain menggunakan Jupyter, 
 anda dapat pula menggunakan berbagai IDE seperti Sypder, PyCharm, dlsb (silahkan googling : IDE untuk Python)
 
 Selanjutnya install library matplotlib pada environtmnet Anaconda environment yang telah dibuat sebelumnya, 
 dengan cara install menggunakan paket anaconda :
---1       conda install matplotlib
-ataupun bisa menggunakan pip, dengan cara :
---1       pip install matplotlib
 
-- CATATAN :
-1. Berikut adalah dokumentasi lengkap penggunaan Anaconda :
-https://docs.continuum.io/
-2. Berikut adalah dokumentasi lengkap penggunaan Jupyter Notebook :
-https://jupyter-notebook.readthedocs.io/en/latest/
+```python
+conda install matplotlib
+// ataupun bisa menggunakan pip, 
+pip install matplotlib
+```
 
-Selamat mencoba :D , GBU
+##### CATATAN :
+
+Berikut adalah dokumentasi lengkap penggunaan Anaconda & Jupyter Notebook :
+
+- [continuum](https://docs.continuum.io/)
+- [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/)
+
+
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://github.com/yysofiyan/DataVisualization)
+
 
 
